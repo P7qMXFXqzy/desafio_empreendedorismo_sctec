@@ -300,7 +300,6 @@ class Janela(QMainWindow):
                 "Dados do registro salvos.",
                 QMessageBox.Ok
             )
-        print(resposta)
 
     def deletar_registro(self):
         if (self.id_em_edicao == None):
