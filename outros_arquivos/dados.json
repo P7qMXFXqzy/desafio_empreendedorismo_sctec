@@ -1,0 +1,58 @@
+{
+    "00000": {
+        "empreendimento": "Loja Tech",
+        "empreendedor": "Carlos Silva",
+        "municipio": "Joinville",
+        "segmento": "Tecnologia",
+        "contato": "carlos@technova.com",
+        "status": true
+    },
+    "00001": {
+        "empreendimento": "Café Aroma",
+        "empreendedor": "Mariana Souza",
+        "municipio": "Florianópolis",
+        "segmento": "Alimentação",
+        "contato": "contato@cafearoma.com",
+        "status": false
+    },
+    "00002": {
+        "empreendimento": "EcoViva",
+        "empreendedor": "João Pereira",
+        "municipio": "Blumenau",
+        "segmento": "Sustentabilidade",
+        "contato": "joao@ecoviva.com",
+        "status": true
+    },
+    "00003": {
+        "empreendimento": "Studio Forma",
+        "empreendedor": "Ana Lima",
+        "municipio": "Itajaí",
+        "segmento": "Fitness",
+        "contato": "ana@studioforma.com",
+        "status": false
+    },
+    "00004": {
+        "empreendimento": "AgroFuturo",
+        "empreendedor": "Lucas Martins",
+        "municipio": "Chapecó",
+        "segmento": "Agronegócio",
+        "contato": "lucas@agrofuturo.com",
+        "status": true
+    },
+    "00005": {
+        "empreendimento": "aaafff",
+        "empreendedor": "sss",
+        "municipio": "ddd",
+        "segmento": "fff",
+        "contato": "ggg",
+        "status": true
+    },
+    "00006": {
+        "empreendimento": "AgroFuturo",
+        "empreendedor": "Lucas Martins",
+        "municipio": "Chapecó",
+        "segmento": "Agronegócio",
+        "contato": "lucas@agrofuturo.com",
+        "status": true
+    }
+}
